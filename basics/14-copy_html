@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r ./Directory_1/*.html ./Directory_2
+cp /*.html .
